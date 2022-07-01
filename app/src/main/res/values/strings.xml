@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TeachnookMayteam</string>
+    <string name="Textview_name">Hello students welcome to our session</string>
+    <string name="title_activity_linear_layout">linear_layout</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_linearlayout">linearlayout</string>
+    <string name="title_activity_constraintlayout">Constraintlayout</string>
+    <string name="title_activity_intentpart">intentpart</string>
+    <!-- Strings used for fragments for navigation -->
+
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Mainscreen"
+    android:background="#80dfff">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="140dp"
+        android:layout_marginLeft="120dp"
+        android:text="QuizApp"
+        android:textColor="#E64A19"
+        android:textSize="48sp" />
+
+    <EditText
+        android:id="@+id/personname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="Enter Your Name"
+        android:layout_marginLeft="120dp"
+        android:layout_marginTop="300dp"/>
+
+    <Button
+        android:id="@+id/button12"
+        android:layout_width="188dp"
+        android:layout_height="73dp"
+        android:layout_marginLeft="120dp"
+        android:layout_marginTop="470dp"
+        android:background="#E64A19"
+        android:text="START"
+        android:textColor="#FFFFFF"
+        android:textSize="28dp" />
+
+    <Button
+        android:id="@+id/button13"
+        android:layout_width="193dp"
+        android:layout_height="69dp"
+        android:layout_marginLeft="120dp"
+        android:layout_marginTop="560dp"
+        android:background="#0033cc"
+        android:text="ABOUT"
+        android:textColor="#FFFFFF"
+        android:textSize="28dp" />
+
+
+</RelativeLayout>
